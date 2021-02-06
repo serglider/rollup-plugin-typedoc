@@ -1,7 +1,7 @@
 {
     "name": "rollup-plugin-typedoc",
     "author": "Sergey Chernykh <s-chernykh@outlook.com> (https://github.com/serglider/)",
-    "homepage": "https://github.com/serglider/shake-detector",
+    "homepage": "https://github.com/serglider/rollup-plugin-typedoc",
     "version": "0.1.0",
     "description": "Runs typedoc compilation as a rollup plugin",
     "keywords": [
@@ -15,7 +15,7 @@
     "main": "index.js",
     "repository": {
         "type": "git",
-        "url": "https://github.com/serglider/shake-detector.git"
+        "url": "https://github.com/serglider/rollup-plugin-typedoc.git"
     },
     "dependencies": {
         "lodash.clone": "^4.5.0",
