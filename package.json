@@ -2,7 +2,7 @@
     "name": "rollup-plugin-typedoc",
     "author": "Sergey Chernykh <s-chernykh@outlook.com> (https://github.com/serglider/)",
     "homepage": "https://github.com/serglider/rollup-plugin-typedoc",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "description": "Runs typedoc compilation as a rollup plugin",
     "keywords": [
         "typedoc",
